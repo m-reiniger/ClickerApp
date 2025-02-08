@@ -1,0 +1,3 @@
+[submodule "ClickerApp-angular"]
+	path = ClickerApp-angular
+	url = git@github.com:m-reiniger/ClickerApp-angular.git
